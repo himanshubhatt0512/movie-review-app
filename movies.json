@@ -1,0 +1,475 @@
+[{
+  "_id": {
+    "$oid": "64451ae3a4b7a021642bb2ea"
+  },
+  "imdbId": "tt1630029",
+  "title": "Avatar: The Way of Water",
+  "releaseDate": "2022-12-16",
+  "trailerLink": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+    "https://image.tmdb.org/t/p/original/evaFLqtswezLosllRZtJNMiO1UR.jpg",
+    "https://image.tmdb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+    "https://image.tmdb.org/t/p/original/zaapQ1zjKe2BGhhowh5pM251Gpl.jpg",
+    "https://image.tmdb.org/t/p/original/tQ91wWQJ2WRNDXwxuO7GCXX5VPC.jpg",
+    "https://image.tmdb.org/t/p/original/5gPQKfFJnl8d1edbkOzKONo4mnr.jpg",
+    "https://image.tmdb.org/t/p/original/2fS9cpar9rzxixwnRptg4bGmIym.jpg",
+    "https://image.tmdb.org/t/p/original/fkGR1ltNbvERk3topo4dP3gWsvR.jpg",
+    "https://image.tmdb.org/t/p/original/rb9IHprKNoSKqatP2vr25unUDSu.jpg",
+    "https://image.tmdb.org/t/p/original/37ZswIuRQcRBN7kHij5MBjzRMRt.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "64589889ee0ed157ac89460a"
+    },
+    {
+      "$oid": "64589c3aee0ed157ac89460b"
+    },
+    {
+      "$oid": "64589cacee0ed157ac89460c"
+    },
+    {
+      "$oid": "64589d70ee0ed157ac89460d"
+    },
+    {
+      "$oid": "64589d80ee0ed157ac89460e"
+    },
+    {
+      "$oid": "64589e8a0d4c0167b61ff04f"
+    },
+    {
+      "$oid": "64589fd60d4c0167b61ff050"
+    },
+    {
+      "$oid": "64589ffd0d4c0167b61ff051"
+    },
+    {
+      "$oid": "6458a00e0d4c0167b61ff052"
+    },
+    {
+      "$oid": "6458a0480d4c0167b61ff053"
+    },
+    {
+      "$oid": "6458a2500d4c0167b61ff054"
+    },
+    {
+      "$oid": "6458a3610d4c0167b61ff055"
+    },
+    {
+      "$oid": "6458a39e0d4c0167b61ff056"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64451ae3a4b7a021642bb2eb"
+  },
+  "imdbId": "tt1877830",
+  "title": "The Batman",
+  "releaseDate": "2022-03-01",
+  "trailerLink": "https://www.youtube.com/watch?v=vc7_mH2PWHs",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+    "https://image.tmdb.org/t/p/original/xHrp2pq73oi9D64xigPjWW1wcz1.jpg",
+    "https://image.tmdb.org/t/p/original/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
+    "https://image.tmdb.org/t/p/original/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
+    "https://image.tmdb.org/t/p/original/IYUD7rAIXzBM91TT3Z5fILUS7n.jpg",
+    "https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+    "https://image.tmdb.org/t/p/original/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+    "https://image.tmdb.org/t/p/original/myJpOGXMAP7KYURVN92EvtIyLVH.jpg",
+    "https://image.tmdb.org/t/p/original/whncenhxHdqyaubfXGuWkbvQBg2.jpg",
+    "https://image.tmdb.org/t/p/original/cI7rsBuPVr9rQUsKBnscmTZJUz2.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "645d3c7b618e2e0ed13ff33d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64451ae3a4b7a021642bb2ed"
+  },
+  "imdbId": "tt6443346",
+  "title": "Black Adam",
+  "releaseDate": "2022-10-19",
+  "trailerLink": "https://www.youtube.com/watch?v=JaV7mmc9HGw",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science Fiction"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+    "https://image.tmdb.org/t/p/original/9hNtTwY8P5v2MKnUeb7iuREI7Yb.jpg",
+    "https://image.tmdb.org/t/p/original/zplntIhzXyBiXFYWReETxh0uyFF.jpg",
+    "https://image.tmdb.org/t/p/original/yxkhM18dYwsRRffLnd9lz2d4i0v.jpg",
+    "https://image.tmdb.org/t/p/original/bgaBKREAfUtZgvd6zoV6RQRcIUt.jpg",
+    "https://image.tmdb.org/t/p/original/uqYxoj4hqwocwfBs2xxGyQT88Yk.jpg",
+    "https://image.tmdb.org/t/p/original/qBx97wytqlyPqXATHqRgIVFxJRU.jpg",
+    "https://image.tmdb.org/t/p/original/d6MhreFdMHONqX3iZlJGCF8UkIt.jpg",
+    "https://image.tmdb.org/t/p/original/9inNotReApz0n50WvWbrt0n1cbL.jpg",
+    "https://image.tmdb.org/t/p/original/pSOuqtJmdh7aI1yiK7M8e0PmbPC.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "64451ae3a4b7a021642bb2ee"
+  },
+  "imdbId": "tt0499549",
+  "title": "Avatar",
+  "releaseDate": "2009-12-15",
+  "trailerLink": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/o0s4XsEDfDlvit5pDRKjzXR4pp2.jpg",
+    "https://image.tmdb.org/t/p/original/8I37NtDffNV7AZlDa7uDvvqhovU.jpg",
+    "https://image.tmdb.org/t/p/original/2YLOjUiczXEgVZFDSIeH3iWB3Ub.jpg",
+    "https://image.tmdb.org/t/p/original/Yc9q6QuWrMp9nuDm5R8ExNqbEq.jpg",
+    "https://image.tmdb.org/t/p/original/jlQJDD0L5ZojjlS0KYnApdO0n19.jpg",
+    "https://image.tmdb.org/t/p/original/sfw4m2tOgQRzhF6VXxaXGfd1vX.jpg",
+    "https://image.tmdb.org/t/p/original/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+    "https://image.tmdb.org/t/p/original/xMMrBziwJqrgjerqpNeQvwuwiUp.jpg",
+    "https://image.tmdb.org/t/p/original/chauy3iJaZtrMbTr72rgNmOZwo3.jpg",
+    "https://image.tmdb.org/t/p/original/mYJkJ7YxJsUNI1nAOOUOpRN2auC.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "64451ae3a4b7a021642bb2f0"
+  },
+  "imdbId": "tt9114286",
+  "title": "Black Panther: Wakanda Forever",
+  "releaseDate": "2022-11-11",
+  "trailerLink": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+    "https://image.tmdb.org/t/p/original/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+    "https://image.tmdb.org/t/p/original/cs3LpA38BS2XDPfUzdgMB537XOo.jpg",
+    "https://image.tmdb.org/t/p/original/6SGMzCsaU094Mt32IHGkIYtIl06.jpg",
+    "https://image.tmdb.org/t/p/original/bty0TwJGsxMqYRptgyzn28Cxq5y.jpg",
+    "https://image.tmdb.org/t/p/original/h2jp3CSdTPc22mUqps9I8vXDPaN.jpg",
+    "https://image.tmdb.org/t/p/original/fSfWloWi5rmqbmC7GhO0HY2TMZW.jpg",
+    "https://image.tmdb.org/t/p/original/vZujZnmkYB5nGUC5d5llK9DbGLk.jpg",
+    "https://image.tmdb.org/t/p/original/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg",
+    "https://image.tmdb.org/t/p/original/geI3Mk7nehX1kvyIY3K5ajaiNfI.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "6457e7bfee0ed157ac8945fe"
+    },
+    {
+      "$oid": "6457e7d5ee0ed157ac8945ff"
+    },
+    {
+      "$oid": "6457e882ee0ed157ac894600"
+    },
+    {
+      "$oid": "6457e8d7ee0ed157ac894601"
+    },
+    {
+      "$oid": "6457e998ee0ed157ac894602"
+    },
+    {
+      "$oid": "64589511ee0ed157ac894608"
+    },
+    {
+      "$oid": "64589512ee0ed157ac894609"
+    },
+    {
+      "$oid": "6458b80c0d4c0167b61ff05a"
+    },
+    {
+      "$oid": "6458b9cf0d4c0167b61ff05b"
+    },
+    {
+      "$oid": "6458baaa0d4c0167b61ff05c"
+    },
+    {
+      "$oid": "645a0d990d4c0167b61ff060"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64451ae3a4b7a021642bb2f1"
+  },
+  "imdbId": "tt1160419",
+  "title": "Dune",
+  "releaseDate": "2021-09-15",
+  "trailerLink": "https://www.youtube.com/watch?v=w0HgHet0sxg",
+  "genres": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+    "https://image.tmdb.org/t/p/original/h3HsfV8Kn9Sz2QWUYYdP5ya23hx.jpg",
+    "https://image.tmdb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+    "https://image.tmdb.org/t/p/original/sfjqJDmNqMIImO5khiddb9TARvO.jpg",
+    "https://image.tmdb.org/t/p/original/wYMbnrdRCREjNLwFlG5SLWzBjui.jpg",
+    "https://image.tmdb.org/t/p/original/1httqnYN5eMIkuxibCkRzInUvoS.jpg",
+    "https://image.tmdb.org/t/p/original/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
+    "https://image.tmdb.org/t/p/original/uyrmdtutT4H4cxJhf2hcamNvGc5.jpg",
+    "https://image.tmdb.org/t/p/original/tHRo2pQDnbHCKsL3KABEnJX9ioz.jpg",
+    "https://image.tmdb.org/t/p/original/jKhsC3yguywiKF1XA6OlslFhlwT.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645b42007ea96de96faa7c10"
+  },
+  "imdbId": "tt10366206",
+  "title": "John Wick: Chapter 4",
+  "releaseDate": "2023-03-22",
+  "trailerLink": "https://www.youtube.com/watch?v=qEVUtrk8_B4",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/xUidyvYFsbbuExifLkslpcd8SMc.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
+    "https://image.tmdb.org/t/p/original/kyxUKnHm0zlbg4iCSGjKm0Xj3Q0.jpg",
+    "https://image.tmdb.org/t/p/original/xesn2yqNvezKyMXon8Aam4QZane.jpg",
+    "https://image.tmdb.org/t/p/original/ctIFaO3gGbllHlHGm5rPBqtJ83u.jpg",
+    "https://image.tmdb.org/t/p/original/eYZKnp1cUHxtcerZdaOnOXEhkmd.jpg",
+    "https://image.tmdb.org/t/p/original/i8dshLvq4LE3s0v8PrkDdUyb1ae.jpg",
+    "https://image.tmdb.org/t/p/original/zKOLGC6s6Ieyy7oMl0GT6PTR9VM.jpg",
+    "https://image.tmdb.org/t/p/original/74q0L86HV4ifAO0rSRD64iWhVVH.jpg",
+    "https://image.tmdb.org/t/p/original/6oBXf3Ei3F1IfWy9hfPUJ7wJXd5.jpg",
+    "https://image.tmdb.org/t/p/original/kShG5rvuK4N7KUqEoCknNqwhQyY.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645d2013a2dd0fa15164d3c9"
+  },
+  "imdbId": "tt6791350",
+  "title": "Guardians of the Galaxy Volume 3",
+  "releaseDate": "2023-05-03",
+  "trailerLink": "https://www.youtube.com/watch?v=AAE5VZktooM",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg",
+    "https://image.tmdb.org/t/p/original/99NBEpQEM4uLItZY2RquqdqdSXM.jpg",
+    "https://image.tmdb.org/t/p/original/3pF4tO8vIRMO98NsNjxb9EZkgbj.jpg",
+    "https://image.tmdb.org/t/p/original/7TUp4uKIaX9c2TAZLPwjty5A0EP.jpg",
+    "https://image.tmdb.org/t/p/original/2mxPcFTnHJjc7BgNnbETLK28cRG.jpg",
+    "https://image.tmdb.org/t/p/original/tnymY1nK7as9aYwZSMrXimEeWS1.jpg",
+    "https://image.tmdb.org/t/p/original/hsyvbyU0mFO8tYHNDN67tQqDnNW.jpg",
+    "https://image.tmdb.org/t/p/original/51vreLbrGwzAg4WRCHgitWz6Naw.jpg",
+    "https://image.tmdb.org/t/p/original/4IYRAyTbpL05xHqCii5lMTtxMHO.jpg",
+    "https://image.tmdb.org/t/p/original/rbuahTzRqThIc9JOG60fQzPXJtH.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645d222ba2dd0fa15164d3cb"
+  },
+  "imdbId": "tt10954600",
+  "title": "Ant-Man and the Wasp: Quantumania",
+  "releaseDate": "2023-02-15",
+  "trailerLink": "https://www.youtube.com/watch?v=5WfTEZJnv_8",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/3CxUndGhUcZdt1Zggjdb2HkLLQX.jpg",
+    "https://image.tmdb.org/t/p/original/gMJngTNfaqCSCqGD4y8lVMZXKDn.jpg",
+    "https://image.tmdb.org/t/p/original/xCa7gIEAIy66S2LSaME90QJEWHm.jpg",
+    "https://image.tmdb.org/t/p/original/7WxVKp35lxxGUin8eLvTkDcr5Ke.jpg",
+    "https://image.tmdb.org/t/p/original/r2HHk8IWoar4uFENnM20T05UHyC.jpg",
+    "https://image.tmdb.org/t/p/original/8q9k9yENMtpvtDTQgBZMRXyhnqp.jpg",
+    "https://image.tmdb.org/t/p/original/d1WmfxZyuHI0sSEUb9Jf5xp8Vjb.jpg",
+    "https://image.tmdb.org/t/p/original/bysqOU48SaEtX4QFdBWUJNgqNRC.jpg",
+    "https://image.tmdb.org/t/p/original/jJiAJ05XSa81OtTVfmTEx5lFvf5.jpg",
+    "https://image.tmdb.org/t/p/original/kUFdrndxyKJNuabVX0x1yUISbKE.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645d2359a2dd0fa15164d3cc"
+  },
+  "imdbId": "tt10151854",
+  "title": "Shazam! Fury of the Gods",
+  "releaseDate": "2023-03-15",
+  "trailerLink": "https://www.youtube.com/watch?v=AIc671o9yCI",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Adventure"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/2VK4d3mqqTc7LVZLnLPeRiPaJ71.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/nDxJJyA5giRhXx96q1sWbOUjMBI.jpg",
+    "https://image.tmdb.org/t/p/original/28WypBR9DhbHyhmDhgxQLmkf5aQ.jpg",
+    "https://image.tmdb.org/t/p/original/wybmSmviUXxlBmX44gtpow5Y9TB.jpg",
+    "https://image.tmdb.org/t/p/original/35slSk2fwFGDK8pZnPprOFKWxhV.jpg",
+    "https://image.tmdb.org/t/p/original/yn5EKKduBiDZXNQ0Mx8VyrxOaZf.jpg",
+    "https://image.tmdb.org/t/p/original/9hniQEX64lsdkDRxlndcW6ejw3k.jpg",
+    "https://image.tmdb.org/t/p/original/ot1WzjD045nA1QsCHtuZE8SOBLB.jpg",
+    "https://image.tmdb.org/t/p/original/moFBV9LnYMqcqXdZ33B1O1rkeBb.jpg",
+    "https://image.tmdb.org/t/p/original/fzujTKBm6TAiIoshjvbn4KFo7J5.jpg",
+    "https://image.tmdb.org/t/p/original/4TzE52LiouxFx25kMR3KUZobR7K.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645d2400a2dd0fa15164d3cd"
+  },
+  "imdbId": "tt5433140",
+  "title": "Fast X",
+  "releaseDate": "2023-05-17",
+  "trailerLink": "https://www.youtube.com/watch?v=vvazj_Ycw_w",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/fI5RsaM0NSU6TqztRhA2pal5ezv.jpg",
+    "https://image.tmdb.org/t/p/original/hVUPsfrr8v70t9q7ArmihGa7Rvo.jpg",
+    "https://image.tmdb.org/t/p/original/8UkYotdREQ0l2lJpDzzIrmgfaYm.jpg",
+    "https://image.tmdb.org/t/p/original/nfSrOaiUWTdMsBKG9SDfvFGZ777.jpg",
+    "https://image.tmdb.org/t/p/original/cEyhk8tZWubni71M6plwLMQFOIX.jpg",
+    "https://image.tmdb.org/t/p/original/42AUEPTqYcZ5Gs1MAAv4mM7jFAY.jpg",
+    "https://image.tmdb.org/t/p/original/uTSaToa77yLJnYyZ4uR8TDQBUMF.jpg",
+    "https://image.tmdb.org/t/p/original/zPmXiPlB9YXT9dtSHzZHQUcpekw.jpg",
+    "https://image.tmdb.org/t/p/original/4t0oBFrJyweYPt0hocW6RUa0b6H.jpg",
+    "https://image.tmdb.org/t/p/original/cSWkX0fTjrBCU2sbEmyRFd1SxPA.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645d2975a2dd0fa15164d3ce"
+  },
+  "imdbId": "tt11145118",
+  "title": "Creed III",
+  "releaseDate": "2023-03-01",
+  "trailerLink": "https://www.youtube.com/watch?v=xTaIZo8OJYE",
+  "genres": [
+    "Drama",
+    "Action"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+    "https://image.tmdb.org/t/p/original/rV54txX9Whz7o66qoPz0VDLTvUU.jpg",
+    "https://image.tmdb.org/t/p/original/x6h9sm7dIz7EjEZNCzKZb9tMlzP.jpg",
+    "https://image.tmdb.org/t/p/original/8QsVX5C82mT7bB5sVsjsLcerWQK.jpg",
+    "https://image.tmdb.org/t/p/original/n8RJe8bgpTfnWbIL1ZhH6U3JarV.jpg",
+    "https://image.tmdb.org/t/p/original/26YLjaC1udGEmSvlM1P5eBGWO5h.jpg",
+    "https://image.tmdb.org/t/p/original/2dyYU6c062oPUFKT5oitkFL99sF.jpg",
+    "https://image.tmdb.org/t/p/original/mTaRr0Woaj7x60H0l4db8IYfdXT.jpg",
+    "https://image.tmdb.org/t/p/original/zcNmlnPrAxsYgT55rtf3yX7NzSO.jpg",
+    "https://image.tmdb.org/t/p/original/1AOZAcGgJuS85iec4xvqCAnIDrN.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645d2b58a2dd0fa15164d3cf"
+  },
+  "imdbId": "tt24268454",
+  "title": "The Kerala Story",
+  "releaseDate": "2023-05-05",
+  "trailerLink": "https://www.youtube.com/watch?v=3Jk3vquJDGs",
+  "genres": [
+    "Drama"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/g70f3hwn5jPaNzqPssoa9unlawo.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/ukVxV6Z31zPlbNnQM4RqNLFliHB.jpg",
+    "https://image.tmdb.org/t/p/original/nJqHWGxs6pi3qFF8cYVpMPXq8Se.jpg",
+    "https://image.tmdb.org/t/p/original/7wHFlMLzbQJasEKtes1LWy2XEFS.jpg",
+    "https://image.tmdb.org/t/p/original/4T7Gpj781bArym2wodOcmc2nKit.jpg",
+    "https://image.tmdb.org/t/p/original/3x8e94LGxyx1lJHq0GrYURf8zlX.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645d2d01a2dd0fa15164d3d0"
+  },
+  "imdbId": "tt15239678",
+  "title": "Dune: Part Two",
+  "releaseDate": "2023-11-01",
+  "trailerLink": "https://www.youtube.com/watch?v=Way9Dexny3w",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/cBDoFHJVcZqAonkTyhN9sMEggi5.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/4G3DsvGEACnuIKlmaEtbx9nv7oD.jpg",
+    "https://image.tmdb.org/t/p/original/9Le7N3fmrHnWwdxCg35jSSawFyK.jpg",
+    "https://image.tmdb.org/t/p/original/A4hrthPHGZWTfYN506IEYfGuJ7D.jpg",
+    "https://image.tmdb.org/t/p/original/uhUO7vQQKvCTfQWubOt5MAKokbL.jpg",
+    "https://image.tmdb.org/t/p/original/iKOs7caYOHzsRNWfY9RfIpbuLeI.jpg",
+    "https://image.tmdb.org/t/p/original/avxs5t3dNwD84DUKTX4Pf3S5pYJ.jpg",
+    "https://image.tmdb.org/t/p/original/2WkJGQvwPAXfgg3PYYO5waV4XH4.jpg",
+    "https://image.tmdb.org/t/p/original/31VmdaD0TJ6PhwePitsEk5wuGxi.jpg"
+  ],
+  "reviewIds": []
+},{
+  "_id": {
+    "$oid": "645d2da8a2dd0fa15164d3d1"
+  },
+  "imdbId": "tt0439572",
+  "title": "The Flash",
+  "releaseDate": "2023-06-14",
+  "trailerLink": "https://www.youtube.com/watch?v=r51cYVZWKdY",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w500/wtxQcQxqIVStja6DFksiwC1tER8.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/5YsXVCX3AMJhW85yuEXzqYBvXfF.jpg",
+    "https://image.tmdb.org/t/p/original/kIX6VS5FTMURcK3WlNNkPss60e4.jpg",
+    "https://image.tmdb.org/t/p/original/6GIpI3X65J6DT2nSTSga9LnanGJ.jpg",
+    "https://image.tmdb.org/t/p/original/l9h3XiVH38ZWnEmR8VokTXz5cGB.jpg",
+    "https://image.tmdb.org/t/p/original/5oZ8tazqOfPjh4H2dhAlAMDvncq.jpg",
+    "https://image.tmdb.org/t/p/original/fEe2csLOUsTyaLdCccVJfFeJzhx.jpg",
+    "https://image.tmdb.org/t/p/original/9lL3VVktfy8ny774XP00tJHXGvP.jpg",
+    "https://image.tmdb.org/t/p/original/cJDqNlTnqo1xBORIrILhtDib53w.jpg",
+    "https://image.tmdb.org/t/p/original/fUVK7iUF0k9dU3MwV5MIKWMKGys.jpg",
+    "https://image.tmdb.org/t/p/original/u0Idv93k1EPYahn1QjJXexbT2g2.jpg"
+  ],
+  "reviewIds": []
+}]
